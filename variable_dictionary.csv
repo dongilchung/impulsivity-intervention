@@ -1,0 +1,11 @@
+﻿Variable name,Col.,Explanation,
+"logK.Pre
+logK.Post",1,Logtransformed discount rate (k) which show how individual discount delayed reward.,
+Window.Time,1,Time data of sliding window (10 trial per bin with 5 trial overlap) within each intervention task.,
+Window.Avg,1,Average performance of sliding window (10 trial per bin with 5 trial overlap) within each intervention task.,
+Window.Sde,1,Standard error for performance of sliding window (10 trial per bin with 5 trial overlap) within each intervention task.,
+Accuracy,1,Average performance of entire intervention task.,
+Slope,1,Regression coefficient which show individuals’ speed of intervention task performance enhancement.,
+TimeBinScore,1,Average performance of large window (1/3 of entire task length per bin with 1/6 length overlap) within each intervention task.,
+"DelayedOptionRatio.Pre
+DelayedOptionRatio.Post",1,Probability off choosing the dealyed option.,
